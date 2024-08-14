@@ -1,4 +1,4 @@
 # Todo-app
 
 
-App link : https://ppsn755.github.io/Todo-app/
+App link : https://ishu575.github.io/Todo-app/
